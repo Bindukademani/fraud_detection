@@ -15,3 +15,10 @@ def multiplication(a,b):
 
 
     print("multiplication function") 
+
+
+def division(a,b):
+  c = a/b
+  return a
+
+print("division function")
